@@ -6,4 +6,5 @@
 
 
 -Player Related
-1.Mini Playlist Total Configuration
+
+1 Mini Playlist Total Configuration
